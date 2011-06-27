@@ -1,10 +1,10 @@
 These series of source files have been created from files originally part of files
 part of a series (n this case, the last one of the series) tutorials on writing POSIX
-threads (pthreads) by Daniel Robbins then of the Gentoo project and present via IBM Developer Works
+threads (pthreads) by Daniel Robbins then of the Gentoo project and presented via IBM Developer Works
 (http://www.ibm.com/developerworks/library/l-posix3/).
 
 I have simply modified the source of the "WORKCREW" project to provide more documentation on
-what has been doe as well as the addition of some switches that will hopefully make understanding
+what has been done as well as the addition of some switches that will hopefully make understanding
 the code (and thus, phtreads (espeically pthread condition queues)) more easy.
 
 BUILDING THE CODE

@@ -1,12 +1,12 @@
 These source files have been created using files originally part of the last in a series of 
-tutorials on writing POSIX pthreads by Daniel Robbins then of the Gentoo project and presented 
-via the IBM Developer Works website (http://www.ibm.com/developerworks/library/l-posix3/). This
-last part in the series focused on pthread condition variables which is often not well-understood
+tutorials on writing POSIX pthreads by Daniel Robbins, then of the Gentoo project. It and the other two
+were presented via the IBM Developer Works website (http://www.ibm.com/developerworks/library/l-posix3/). 
+This last part in the series focused on pthread condition variables which are often not well-understood
 by even the most frequent users of POSIX pthreads.
 
-I have simply modified the source of the "WORKCREW" project to provide more documentation on
-what has been done as well as the addition of some switches that will hopefully make understanding
-the code (and thus, phtreads (espeically pthread condition queues)) more easy.
+In learning this myself, I have simply modified the source of the "WORKCREW" project to provide
+more documentation on what has been done as well as the addition of some run-time switches that will 
+hopefully make understanding the code (and thus, phtreads (espeically pthread condition queues)) more easy.
 
 BUILDING THE CODE
 

@@ -1,3 +1,4 @@
+<pre>
 These source files have been created using files originally part of the last in a series of 
 tutorials on writing POSIX pthreads by Daniel Robbins, then of the Gentoo project. It and the other two
 were presented via the IBM Developer Works website (http://www.ibm.com/developerworks/library/l-posix3/). 
@@ -121,3 +122,4 @@ code as need be.
       Breakpoint 1, main (argc=4, argv=0x7fffffffda98) at workcrew.c:260
       260        if ( getparams( argc, argv ) )
       (gdb)       
+</pre>
